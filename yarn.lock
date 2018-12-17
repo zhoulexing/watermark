@@ -2794,3 +2794,11 @@ yargs@^12.0.2:
     which-module "^2.0.0"
     y18n "^3.2.1 || ^4.0.0"
     yargs-parser "^11.1.1"
+
+zlx-watermark@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/zlx-watermark/-/zlx-watermark-1.0.0.tgz#af0662c58d64c6f1df4669e9239348fade74e0fd"
+  integrity sha512-pHTQLJl6Wi5S8fPHq25pYNPXm/5aDh2nakMt9oAxMqih1udgqopa58o/F4D0w5YWT8wEfNZlJcaCkKSfWF+5rQ==
+  dependencies:
+    webpack "^4.27.1"
+    webpack-cli "^3.1.2"
