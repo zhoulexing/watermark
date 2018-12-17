@@ -1,0 +1,20 @@
+{
+  "name": "zlx-watermark",
+  "version": "1.0.0",
+  "description": "watermark",
+  "repository": "https://github.com/zhoulexing/watermark.git",
+  "main": "build/watermark.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "keywords": [
+    "watermark",
+    "webpack"
+  ],
+  "author": "zlx",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
